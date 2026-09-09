@@ -1,12 +1,12 @@
 #include <iostream>
 using namespace std;
 
-// Function to calculate square
+
 int power(int n) {
     return n * n;
 }
 
-// Function to calculate cube
+
 int power(int n, int p) {
     return n * n * n;
 }
